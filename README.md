@@ -24,7 +24,7 @@
 - [Dependẽncias](#dependencias)
 - [Criador](#criador)
 - [Agradecimentos](#gradecimentos)
-- [Copyright]
+- [Copyright](#copyright)
 
 ## Executando o app
 

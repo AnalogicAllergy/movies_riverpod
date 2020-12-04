@@ -33,8 +33,7 @@ Assim como tod app escrito em Flutter, após clonar o repositório do projeto, b
 - Assegurar que o Flutter existe em sua máquina e está devidamente configurado
 - Ter um emulador instalado ou dispositivo físico com a Depuração USB habilitada
 - Navegar até o diretório clonado, e exeucar os seguintes comandos:
-  `flutter packages get`
-  `flutter run`
+  `flutter packages get` e depois `flutter run`
 - O app deverá ser iniciado no seu dispositivo
 
 ## O que está incluído
@@ -50,9 +49,9 @@ Com o app é possível realizar consultas páginadas na API do TMDB com o auxíl
 
 ## Dependências
 
-- Dio <https://pub.dev/packages/dio>
-- flutter_riverpod <https://pub.dev/packages/flutter_riverpod>
-- lint <https://pub.dev/packages/lint>
+- [Dio] (https://pub.dev/packages/dio)
+- [flutter_riverpod] (https://pub.dev/packages/flutter_riverpod)
+- [lint] (https://pub.dev/packages/lint)
 
 ## Criador
 
@@ -60,10 +59,10 @@ Com o app é possível realizar consultas páginadas na API do TMDB com o auxíl
 
 ## Agradecimentos
 
-** Robert Brunhage ** - The Riverpod Ninja!
+**Robert Brunhage**
 
-- <https://github.com/RobertBrunhage>
-  Tutorial em vídeo disponível em: <https://www.youtube.com/watch?v=soTEOI_rIIQ>
+- [GitHub] (https://github.com/RobertBrunhage)
+- Tutorial em vídeo disponível em: [Youtube] (https://www.youtube.com/watch?v=soTEOI_rIIQ)
 
 ## Copyright
 

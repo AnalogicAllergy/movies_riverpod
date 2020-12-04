@@ -49,9 +49,9 @@ Com o app é possível realizar consultas páginadas na API do TMDB com o auxíl
 
 ## Dependências
 
-- [Dio] (https://pub.dev/packages/dio)
-- [flutter_riverpod] (https://pub.dev/packages/flutter_riverpod)
-- [lint] (https://pub.dev/packages/lint)
+- [Dio](https://pub.dev/packages/dio)
+- [flutter_riverpod](https://pub.dev/packages/flutter_riverpod)
+- [lint](https://pub.dev/packages/lint)
 
 ## Criador
 
@@ -61,8 +61,8 @@ Com o app é possível realizar consultas páginadas na API do TMDB com o auxíl
 
 **Robert Brunhage**
 
-- [GitHub] (https://github.com/RobertBrunhage)
-- Tutorial em vídeo disponível em: [Youtube] (https://www.youtube.com/watch?v=soTEOI_rIIQ)
+- [GitHub](https://github.com/RobertBrunhage)
+- Tutorial em vídeo disponível em: [Youtube](https://www.youtube.com/watch?v=soTEOI_rIIQ)
 
 ## Copyright
 

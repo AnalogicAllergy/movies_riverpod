@@ -2,8 +2,11 @@
   <a href="https://flutter.io/">
     <img src="https://diegolaballos.com/files/images/flutter-icon.jpg" alt="Logo" width=72 height=72>
   </a>
+   <a href="https://riverpod.dev/">
+    <img src="https://riverpod.dev/img/logo.svg" alt="Logo" width=72 height=72>
+  </a>
 
-  <h3 align="center">Flutter Example App</h3>
+  <h3 align="center">Riverpod Movies</h3>
 
   <p align="center">
     Movie APP
@@ -13,18 +16,23 @@
     <br>
     <a href="https://github.com/AnalogicAllergy/movies_riverpod/issues/new">Reportar um bug</a>
     ·
-    <a href="https://github.com/AnalogicAllergy/movies_riverpod/issues/new">Requesitar uma feature</a>
+    <a href="https://github.com/AnalogicAllergy/movies_riverpod/issues/new">Requisitar uma feature</a>
   </p>
 </p>
 
 ## Índice
 
+- [Captura](#captura)
 - [Executando o app](#executando-o-app)
 - [O que está incluído](#o-que-está-incluido)
-- [Dependẽncias](#dependencias)
+- [Dependências](#dependencias)
 - [Criador](#criador)
 - [Agradecimentos](#gradecimentos)
 - [Copyright](#copyright)
+
+## Captura
+
+![Captura do app](screens/demo.gif)
 
 ## Executando o app
 
@@ -46,6 +54,7 @@ Com o app é possível realizar consultas páginadas na API do TMDB com o auxíl
 - Layout Customizado
 - Paginação
 - Tratamento de Exceções das chamadas à API
+- [TMDB](https://www.themoviedb.org/)
 
 ## Dependências
 
@@ -55,7 +64,7 @@ Com o app é possível realizar consultas páginadas na API do TMDB com o auxíl
 
 ## Criador
 
-** Willian Santana ** aka AnalogicAllergy
+**Willian Santana** aka _AnalogicAllergy_
 
 ## Agradecimentos
 
@@ -66,4 +75,4 @@ Com o app é possível realizar consultas páginadas na API do TMDB com o auxíl
 
 ## Copyright
 
-Feel free to clone, modify and share.
+Fique a vontade para clonar, modificar e compartilhar!

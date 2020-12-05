@@ -19,8 +19,7 @@ class MovieService {
     try {
       final response = await _dio.get(
           'https://api.themoviedb.org/3/movie/popular?api_key=${_environmentConfig.movieApiKey}&language=en-US&page=$page');
-      final results = List<Map<String, dynamic>>.from(
-          response.data['results'] as List<Map<String, dynamic>>);
+      final results = List<Map<String, dynamic>>.from(response.data['results']);
       final List<Movie> movies = results
           .map((movieData) => Movie.fromMap(movieData))
           .toList(growable: false);

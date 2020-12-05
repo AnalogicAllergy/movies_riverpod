@@ -40,7 +40,7 @@ Assim como tod app escrito em Flutter, após clonar o repositório do projeto, b
 
 - Assegurar que o Flutter existe em sua máquina e está devidamente configurado
 - Ter um emulador instalado ou dispositivo físico com a Depuração USB habilitada
-- Navegar até o diretório clonado, e exeucar os seguintes comandos:
+- Navegar até o diretório clonado, e executar os seguintes comandos:
   `flutter packages get` e depois `flutter run`
 - O app deverá ser iniciado no seu dispositivo
 
